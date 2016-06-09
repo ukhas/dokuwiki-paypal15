@@ -1,7 +1,7 @@
-base   paypal15
+base   paypal16
 author Daniel Saul
 email  daniel@dansaul.co.uk
-date   2015-04-25
-name   Paypal 2015 tag
-desc   Tag to embed Paypal form for 2015 conference
+date   2016-06-09
+name   Paypal 2016 tag
+desc   Tag to embed Paypal form for 2016 conference
 url    https://ukhas.org.uk/
