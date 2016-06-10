@@ -1,6 +1,6 @@
 <?php
 /**
- * paypal button for ukhas15
+ * paypal button for ukhas16
  */
 
 if(!defined('DOKU_INC')) die();
@@ -9,7 +9,7 @@ if(!defined('DOKU_INC')) die();
  * All DokuWiki plugins to extend the parser/rendering mechanism
  * need to inherit from this class
  */
-class syntax_plugin_paypal15 extends DokuWiki_Syntax_Plugin {
+class syntax_plugin_paypal16 extends DokuWiki_Syntax_Plugin {
     function getType(){ return 'substition'; }
     function getSort(){ return 999; }
 
