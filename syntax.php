@@ -30,7 +30,7 @@ class syntax_plugin_paypal15 extends DokuWiki_Syntax_Plugin {
               <input type='hidden' name='currency_code' value='GBP'>
               <input type='image' src='https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif' border='0' name='submit' alt='PayPal – The safer, easier way to pay online!'>
             </form>
-            ';
+            ";
             return true;
         }
         return false;
